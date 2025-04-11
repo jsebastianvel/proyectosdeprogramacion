@@ -1,0 +1,17 @@
+# Dependencias principales
+python-dotenv==1.0.0
+ccxt==4.1.13
+pandas==2.1.4
+numpy==1.24.3
+plotly==5.18.0
+
+# Visualización y UI
+streamlit==1.29.0
+
+# Telegram
+python-telegram-bot==20.7
+
+# Utilidades
+requests==2.31.0
+python-dateutil==2.8.2
+pytz==2023.3 
