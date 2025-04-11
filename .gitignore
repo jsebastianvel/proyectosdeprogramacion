@@ -1,0 +1,152 @@
+
+*.svg
+*.ttf
+*.eot
+*.woff2
+Phona Website/scss/v4-shims.scss
+Phona Website/scss/solid.scss
+Phona Website/scss/regular.scss
+Phona Website/scss/fontawesome.scss
+Phona Website/scss/brands.scss
+Phona Website/scss/_variables.scss
+Phona Website/scss/_stacked.scss
+Phona Website/scss/_shims.scss
+Phona Website/scss/_screen-reader.scss
+Phona Website/scss/_rotated-flipped.scss
+Phona Website/scss/_mixins.scss
+Phona Website/scss/_list.scss
+Phona Website/scss/_larger.scss
+Phona Website/scss/_icons.scss
+Phona Website/scss/_fixed-width.scss
+Phona Website/scss/_core.scss
+Phona Website/scss/_bordered-pulled.scss
+Phona Website/scss/_animated.scss
+Phona Website/metadata/sponsors.yml
+Phona Website/metadata/shims.yml
+Phona Website/metadata/shims.json
+Phona Website/metadata/icons.yml
+Phona Website/metadata/icons.json
+Phona Website/metadata/categories.yml
+Phona Website/LICENSE.txt
+Phona Website/less/v4-shims.less
+Phona Website/less/solid.less
+Phona Website/less/regular.less
+Phona Website/less/fontawesome.less
+Phona Website/less/brands.less
+Phona Website/less/_variables.less
+Phona Website/less/_stacked.less
+Phona Website/less/_shims.less
+Phona Website/less/_screen-reader.less
+Phona Website/less/_rotated-flipped.less
+Phona Website/less/_mixins.less
+Phona Website/less/_list.less
+Phona Website/less/_larger.less
+Phona Website/less/_icons.less
+Phona Website/less/_fixed-width.less
+Phona Website/webfonts/fa-solid-900.woff
+Phona Website/webfonts/fa-regular-400.woff
+Phona Website/webfonts/fa-brands-400.woff
+Phona Website/style.css
+Phona Website/less/_core.less
+Phona Website/less/_bordered-pulled.less
+Phona Website/less/_animated.less
+Phona Website/js/v4-shims.min.js
+Phona Website/js/v4-shims.js
+Phona Website/js/solid.min.js
+Phona Website/js/solid.js
+Phona Website/js/regular.min.js
+Phona Website/js/regular.js
+Phona Website/js/fontawesome.min.js
+Phona Website/js/fontawesome.js
+Phona Website/js/conflict-detection.min.js
+Phona Website/js/conflict-detection.js
+Phona Website/js/brands.min.js
+Phona Website/js/brands.js
+Phona Website/js/all.min.js
+Phona Website/js/all.js
+Phona Website/index.html
+Phona Website/Imagenes/outer-space-background-7.jpg
+Phona Website/Imagenes/Logo Phona.jpg
+Phona Website/css/v4-shims.min.css
+Phona Website/css/v4-shims.css
+Phona Website/css/svg-with-js.min.css
+Phona Website/css/svg-with-js.css
+Phona Website/css/solid.min.css
+Phona Website/css/solid.css
+Phona Website/css/regular.min.css
+Phona Website/css/regular.css
+Phona Website/css/fontawesome.min.css
+Phona Website/css/fontawesome.css
+Phona Website/css/brands.min.css
+Phona Website/css/brands.css
+Fontawesome/fontawesome-free-5.15.2-web/scss/solid.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/regular.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/fontawesome.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/brands.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_variables.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_stacked.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_shims.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_screen-reader.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_rotated-flipped.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_mixins.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_list.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_larger.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_icons.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_fixed-width.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_core.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_bordered-pulled.scss
+Fontawesome/fontawesome-free-5.15.2-web/scss/_animated.scss
+Fontawesome/fontawesome-free-5.15.2-web/metadata/sponsors.yml
+Fontawesome/fontawesome-free-5.15.2-web/metadata/shims.yml
+Fontawesome/fontawesome-free-5.15.2-web/metadata/shims.json
+Fontawesome/fontawesome-free-5.15.2-web/metadata/icons.yml
+Fontawesome/fontawesome-free-5.15.2-web/metadata/icons.json
+Fontawesome/fontawesome-free-5.15.2-web/metadata/categories.yml
+Fontawesome/fontawesome-free-5.15.2-web/LICENSE.txt
+Fontawesome/fontawesome-free-5.15.2-web/less/v4-shims.less
+Fontawesome/fontawesome-free-5.15.2-web/less/solid.less
+Fontawesome/fontawesome-free-5.15.2-web/less/regular.less
+Fontawesome/fontawesome-free-5.15.2-web/less/fontawesome.less
+Fontawesome/fontawesome-free-5.15.2-web/less/brands.less
+cashmeup/fire_website/
+cashmeup/landing_fire/
+cashmeup/node_modules/.yarn-integrity
+cashmeup/yarn.lock
+Fontawesome/fontawesome-free-5.15.2-web.zip
+Fontawesome/fontawesome-free-5.15.2-web/attribution.js
+Fontawesome/fontawesome-free-5.15.2-web/css/all.css
+Fontawesome/fontawesome-free-5.15.2-web/css/all.min.css
+Fontawesome/fontawesome-free-5.15.2-web/css/brands.css
+Fontawesome/fontawesome-free-5.15.2-web/css/brands.min.css
+Fontawesome/fontawesome-free-5.15.2-web/css/fontawesome.css
+Fontawesome/fontawesome-free-5.15.2-web/css/fontawesome.min.css
+Fontawesome/fontawesome-free-5.15.2-web/css/regular.css
+Fontawesome/fontawesome-free-5.15.2-web/css/regular.min.css
+Fontawesome/fontawesome-free-5.15.2-web/css/solid.css
+Fontawesome/fontawesome-free-5.15.2-web/css/solid.min.css
+Fontawesome/fontawesome-free-5.15.2-web/css/svg-with-js.css
+Fontawesome/fontawesome-free-5.15.2-web/css/svg-with-js.min.css
+Fontawesome/fontawesome-free-5.15.2-web/css/v4-shims.css
+Fontawesome/fontawesome-free-5.15.2-web/css/v4-shims.min.css
+Fontawesome/fontawesome-free-5.15.2-web/js/all.js
+Fontawesome/fontawesome-free-5.15.2-web/js/all.min.js
+Fontawesome/fontawesome-free-5.15.2-web/js/brands.js
+Fontawesome/fontawesome-free-5.15.2-web/js/brands.min.js
+Fontawesome/fontawesome-free-5.15.2-web/js/conflict-detection.js
+Fontawesome/fontawesome-free-5.15.2-web/js/conflict-detection.min.js
+Fontawesome/fontawesome-free-5.15.2-web/js/fontawesome.js
+Fontawesome/fontawesome-free-5.15.2-web/js/fontawesome.min.js
+Fontawesome/fontawesome-free-5.15.2-web/js/regular.js
+Fontawesome/fontawesome-free-5.15.2-web/js/regular.min.js
+Fontawesome/fontawesome-free-5.15.2-web/js/solid.js
+Fontawesome/fontawesome-free-5.15.2-web/js/solid.min.js
+Fontawesome/fontawesome-free-5.15.2-web/js/v4-shims.js
+Fontawesome/fontawesome-free-5.15.2-web/js/v4-shims.min.js
+*.less
+Phona Website/css/all.min.css
+Phona Website/css/all.css
+Phona Website/attribution.js
+Fontawesome/fontawesome-free-5.15.2-web/webfonts/fa-solid-900.woff
+Fontawesome/fontawesome-free-5.15.2-web/webfonts/fa-regular-400.woff
+Fontawesome/fontawesome-free-5.15.2-web/webfonts/fa-brands-400.woff
+Fontawesome/fontawesome-free-5.15.2-web/scss/v4-shims.scss
